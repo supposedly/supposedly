@@ -1,6 +1,6 @@
 ### 📍 You are here
 
-Supposedly, at least. Welcome!
+Supposedly, anyway. Welcome!
 
 I graduated last August in computer science and linguistics, and I'm OCI-certified with experience in AWS and Azure and 6+ years of navigating full-stack web development. That includes extensive work in frontend frameworks like React and Vue. If you're here to hear about that, you'll want these three links:
 
